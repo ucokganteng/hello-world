@@ -1,2 +1,4 @@
 # hello-world
-ucokgantenglatihan
+ucok ganteng ngeblog
+
+Hallo brok!
